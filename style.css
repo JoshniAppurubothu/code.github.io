@@ -1,0 +1,21 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?w=1060&t=st=1668685154~exp=1668685754~hmac=b804e84e10a82110dfe6f856c82d527ebe299f064c4fd469283f95071f485c10");
+    height: 100vh;
+    background-size: cover;
+}
+.layoutcard{
+    background-color: peachpuff;
+    height: 200px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.heading{
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paraline{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+
+}
